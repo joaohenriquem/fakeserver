@@ -7,9 +7,5 @@
   ],
   "profile": {
     "name": "JH"
-  },
-  "verificar-exigencia-geolocalizacao":{
-    "msg": "Geolocalização não obrigatória.",
-    "obrigatorio": "false"
   }
 }
