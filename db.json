@@ -10,6 +10,6 @@
   },
   "verificar-exigencia-geolocalizacao": {
     "msg": "Geolocalização obrigatória.",
-    "obrigatorio": "true"
+    "obrigatorio": false
   }
 }
