@@ -7,5 +7,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "verificar-exigencia-geolocalizacao": {
+    "msg": "Geolocalização obrigatória.",
+    "obrigatorio": "true"
   }
 }
